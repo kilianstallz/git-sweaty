@@ -8877,5 +8877,18 @@
     "start_date_local": "2026-03-09T12:10:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 18863.0,
+    "elevation_gain": 42.0,
+    "id": "17672956154",
+    "moving_time": 2757.0,
+    "name": "Morgen Spin f\u00fcr Fr\u00fchlingsgef\u00fchle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-10T14:43:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
