@@ -8890,5 +8890,18 @@
     "start_date_local": "2026-03-10T14:43:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 1822.0,
+    "elevation_gain": 3.0,
+    "id": "17675776543",
+    "moving_time": 2009.0,
+    "name": "Kleines Runderl \ud83e\udd30",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-10T18:34:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
