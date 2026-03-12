@@ -6164,6 +6164,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17675776543",
       "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 15,
+      "name": "McGregor -5 (3x3x5 Pseudo SS)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17686745247",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11355,6 +11364,15 @@
           "distance": 18863.0,
           "elevation_gain": 42.0,
           "moving_time": 2757.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17686745247"
+          ],
+          "count": 1,
+          "distance": 37043.4,
+          "elevation_gain": 239.0,
+          "moving_time": 5634.0
         }
       },
       "Run": {
@@ -11681,7 +11699,7 @@
       }
     }
   },
-  "generated_at": "2026-03-11T15:15:25.849882+00:00",
+  "generated_at": "2026-03-12T15:17:13.089750+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
