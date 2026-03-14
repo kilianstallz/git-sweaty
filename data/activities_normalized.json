@@ -8916,5 +8916,18 @@
     "start_date_local": "2026-03-11T15:38:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 56434.5,
+    "elevation_gain": 268.0,
+    "id": "17716951297",
+    "moving_time": 8271.0,
+    "name": "Fortson",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-14T09:07:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

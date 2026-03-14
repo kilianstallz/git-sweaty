@@ -6173,6 +6173,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17686745247",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 9,
+      "name": "Fortson",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17716951297",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11373,6 +11382,15 @@
           "distance": 37043.4,
           "elevation_gain": 239.0,
           "moving_time": 5634.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17716951297"
+          ],
+          "count": 1,
+          "distance": 56434.5,
+          "elevation_gain": 268.0,
+          "moving_time": 8271.0
         }
       },
       "Run": {
@@ -11699,7 +11717,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:14:16.546991+00:00",
+  "generated_at": "2026-03-14T15:06:19.684933+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
