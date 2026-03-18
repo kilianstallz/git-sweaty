@@ -6182,6 +6182,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17716951297",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 12,
+      "name": "3x9 SS",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17765759252",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11391,6 +11400,15 @@
           "distance": 56434.5,
           "elevation_gain": 268.0,
           "moving_time": 8271.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17765759252"
+          ],
+          "count": 1,
+          "distance": 27684.4,
+          "elevation_gain": 62.0,
+          "moving_time": 3705.0
         }
       },
       "Run": {
@@ -11717,7 +11735,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:21:43.509952+00:00",
+  "generated_at": "2026-03-18T15:26:06.392289+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",

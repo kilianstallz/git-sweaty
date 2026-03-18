@@ -8929,5 +8929,18 @@
     "start_date_local": "2026-03-14T09:07:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 27684.4,
+    "elevation_gain": 62.0,
+    "id": "17765759252",
+    "moving_time": 3705.0,
+    "name": "3x9 SS",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T12:05:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
