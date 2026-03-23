@@ -8955,5 +8955,18 @@
     "start_date_local": "2026-03-20T11:47:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 25914.5,
+    "elevation_gain": 77.0,
+    "id": "17826950055",
+    "moving_time": 3533.0,
+    "name": "Chalone",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T12:23:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
