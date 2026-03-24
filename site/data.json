@@ -6209,6 +6209,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17826950055",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 11,
+      "name": "Echo -5",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17839348042",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11445,6 +11454,15 @@
           "distance": 25914.5,
           "elevation_gain": 77.0,
           "moving_time": 3533.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839348042"
+          ],
+          "count": 1,
+          "distance": 24017.7,
+          "elevation_gain": 80.0,
+          "moving_time": 3508.0
         }
       },
       "Run": {
@@ -11771,7 +11789,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:20:49.875565+00:00",
+  "generated_at": "2026-03-24T15:23:47.469602+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
