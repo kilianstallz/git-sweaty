@@ -9020,5 +9020,18 @@
     "start_date_local": "2026-03-25T15:45:46Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 26026.1,
+    "elevation_gain": 69.0,
+    "id": "17887873264",
+    "moving_time": 3474.0,
+    "name": "Tempo Ride vs Wind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T12:13:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
