@@ -9033,5 +9033,18 @@
     "start_date_local": "2026-03-28T12:13:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 3757.0,
+    "elevation_gain": 15.0,
+    "id": "17910008814",
+    "moving_time": 2307.0,
+    "name": "Easy Peasy Deload",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T11:03:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
