@@ -9072,5 +9072,18 @@
     "start_date_local": "2026-04-03T19:05:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1489.0,
+    "elevation_gain": 3.0,
+    "id": "17976468854",
+    "moving_time": 1540.0,
+    "name": "Kugel Runde \ud83e\udd30",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T16:26:01Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
