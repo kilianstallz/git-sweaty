@@ -9085,5 +9085,18 @@
     "start_date_local": "2026-04-04T16:26:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 48008.3,
+    "elevation_gain": 295.0,
+    "id": "18014962604",
+    "moving_time": 6128.0,
+    "name": "After work Runde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T16:14:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
