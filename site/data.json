@@ -6299,6 +6299,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18014962604",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 11,
+      "name": "Monitor -1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18038857873",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11562,6 +11571,15 @@
           "distance": 48008.3,
           "elevation_gain": 295.0,
           "moving_time": 6128.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18038857873"
+          ],
+          "count": 1,
+          "distance": 25882.7,
+          "elevation_gain": 53.0,
+          "moving_time": 3360.0
         }
       },
       "Run": {
@@ -11943,7 +11961,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T15:28:18.285714+00:00",
+  "generated_at": "2026-04-09T15:30:03.021698+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
