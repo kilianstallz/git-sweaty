@@ -9111,5 +9111,44 @@
     "start_date_local": "2026-04-09T11:42:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 34602.6,
+    "elevation_gain": 38.0,
+    "id": "18070259589",
+    "moving_time": 4330.0,
+    "name": "Moose's Tooth -2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T19:06:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 183.0,
+    "elevation_gain": 0.0,
+    "id": "18070753248",
+    "moving_time": 159.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-11T11:38:34Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 548.0,
+    "elevation_gain": 13.0,
+    "id": "18070755927",
+    "moving_time": 434.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-11T12:58:31Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
