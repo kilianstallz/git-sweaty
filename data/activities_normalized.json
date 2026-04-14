@@ -9163,5 +9163,18 @@
     "start_date_local": "2026-04-13T12:01:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 21918.5,
+    "elevation_gain": 22.0,
+    "id": "18104003267",
+    "moving_time": 2917.0,
+    "name": "Vo2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T13:44:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
