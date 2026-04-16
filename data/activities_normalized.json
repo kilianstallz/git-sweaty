@@ -9176,5 +9176,18 @@
     "start_date_local": "2026-04-14T13:44:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 28534.0,
+    "elevation_gain": 31.0,
+    "id": "18130964472",
+    "moving_time": 3667.0,
+    "name": "SS 3x12",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T12:48:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
