@@ -6362,6 +6362,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18130964472",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18147418768",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18147422023",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18157648581",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11661,6 +11688,16 @@
           "distance": 28534.0,
           "elevation_gain": 31.0,
           "moving_time": 3667.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18147418768",
+            "18147422023"
+          ],
+          "count": 2,
+          "distance": 20138.0,
+          "elevation_gain": 61.0,
+          "moving_time": 2709.0
         }
       },
       "Run": {
@@ -11978,6 +12015,15 @@
           "distance": 1830.0,
           "elevation_gain": 7.0,
           "moving_time": 1843.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18157648581"
+          ],
+          "count": 1,
+          "distance": 616.0,
+          "elevation_gain": 0.0,
+          "moving_time": 653.0
         }
       },
       "WeightTraining": {
@@ -12061,7 +12107,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:21:32.578672+00:00",
+  "generated_at": "2026-04-18T15:13:00.369040+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
