@@ -9228,5 +9228,18 @@
     "start_date_local": "2026-04-18T14:16:12Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 45498.9,
+    "elevation_gain": 147.0,
+    "id": "18167634089",
+    "moving_time": 5891.0,
+    "name": "Easy 4 today",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T08:48:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
