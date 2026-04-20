@@ -6384,7 +6384,7 @@
     {
       "date": "2026-04-18",
       "hour": 14,
-      "name": "Afternoon Walk",
+      "name": "Passau City mit \ud83d\udc0c",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18157648581",
@@ -6397,6 +6397,24 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18167634089",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 13,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18174133452",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18182397580",
       "year": 2026
     }
   ],
@@ -12042,6 +12060,15 @@
           "distance": 616.0,
           "elevation_gain": 0.0,
           "moving_time": 653.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18182397580"
+          ],
+          "count": 1,
+          "distance": 2285.0,
+          "elevation_gain": 6.0,
+          "moving_time": 1476.0
         }
       },
       "WeightTraining": {
@@ -12121,11 +12148,20 @@
           "distance": 731.0,
           "elevation_gain": 13.0,
           "moving_time": 593.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18174133452"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8251.0
         }
       }
     }
   },
-  "generated_at": "2026-04-19T15:12:37.697626+00:00",
+  "generated_at": "2026-04-20T15:28:17.492646+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",

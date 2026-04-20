@@ -9222,7 +9222,7 @@
     "elevation_gain": 0.0,
     "id": "18157648581",
     "moving_time": 653.0,
-    "name": "Afternoon Walk",
+    "name": "Passau City mit \ud83d\udc0c",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-04-18T14:16:12Z",
@@ -9240,6 +9240,32 @@
     "raw_type": "Ride",
     "start_date_local": "2026-04-19T08:48:47Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18174133452",
+    "moving_time": 8251.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-19T13:17:23Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 2285.0,
+    "elevation_gain": 6.0,
+    "id": "18182397580",
+    "moving_time": 1476.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-20T12:32:16Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
