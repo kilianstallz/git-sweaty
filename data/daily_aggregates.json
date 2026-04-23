@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T15:26:53.837714+00:00",
+  "generated_at": "2026-04-23T15:32:46.673505+00:00",
   "years": {
     "2022": {
       "WeightTraining": {
@@ -5316,6 +5316,15 @@
           "distance": 45498.9,
           "elevation_gain": 147.0,
           "moving_time": 5891.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18214070126"
+          ],
+          "count": 1,
+          "distance": 41175.2,
+          "elevation_gain": 312.0,
+          "moving_time": 5867.0
         }
       },
       "Run": {

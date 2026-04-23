@@ -9267,5 +9267,18 @@
     "start_date_local": "2026-04-20T12:32:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 41175.2,
+    "elevation_gain": 312.0,
+    "id": "18214070126",
+    "moving_time": 5867.0,
+    "name": "Einfach mal Stra\u00dfen erkunden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T16:50:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
