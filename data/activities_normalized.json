@@ -9319,5 +9319,18 @@
     "start_date_local": "2026-04-28T19:47:55Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 3485.0,
+    "elevation_gain": 6.0,
+    "id": "18317904522",
+    "moving_time": 1879.0,
+    "name": "Super Mini Slow Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T12:59:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
