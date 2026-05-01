@@ -6447,7 +6447,7 @@
     {
       "date": "2026-04-28",
       "hour": 19,
-      "name": "Evening Walk",
+      "name": "Walk mit \ud83e\udd30\ud83c\udffb\ud83d\udc0c",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18296305136",
@@ -12251,7 +12251,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T15:33:15.308453+00:00",
+  "generated_at": "2026-05-01T15:20:22.463243+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
