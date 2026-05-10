@@ -9332,5 +9332,31 @@
     "start_date_local": "2026-04-30T12:59:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 3598.0,
+    "elevation_gain": 0.0,
+    "id": "18440641487",
+    "moving_time": 1881.0,
+    "name": "Back to Sport - Alternativsport.. \ud83d\udeb3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T16:55:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 3666.0,
+    "elevation_gain": 7.0,
+    "id": "18448813648",
+    "moving_time": 1907.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T10:46:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
