@@ -9423,5 +9423,18 @@
     "start_date_local": "2026-05-18T12:50:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18638114334",
+    "moving_time": 3475.0,
+    "name": "Traditionelles Krafttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-24T17:59:20Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
