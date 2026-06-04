@@ -9501,5 +9501,18 @@
     "start_date_local": "2026-06-02T18:42:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 52203.8,
+    "elevation_gain": 230.0,
+    "id": "18780281628",
+    "moving_time": 6915.0,
+    "name": "Comeback Ride \u2014 Z2 + 2\u00d715min Sweet Spot",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T08:07:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
