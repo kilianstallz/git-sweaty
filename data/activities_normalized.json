@@ -9514,5 +9514,18 @@
     "start_date_local": "2026-06-04T08:07:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 12827.2,
+    "elevation_gain": 0.0,
+    "id": "18796082876",
+    "moving_time": 2134.0,
+    "name": "Comeback Day 5 \u2014 Pre-Test Activation",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T13:50:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
