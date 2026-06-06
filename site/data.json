@@ -6596,6 +6596,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18796082876",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 10,
+      "name": "Test Day 1 \u2014 5min + 20min All-Out (+max Power Test)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18807456289",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11959,6 +11968,15 @@
           "distance": 12827.2,
           "elevation_gain": 0.0,
           "moving_time": 2134.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18807456289"
+          ],
+          "count": 1,
+          "distance": 37333.9,
+          "elevation_gain": 304.0,
+          "moving_time": 5556.0
         }
       },
       "Run": {
@@ -12521,7 +12539,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T15:59:44.785756+00:00",
+  "generated_at": "2026-06-06T15:26:20.339918+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",

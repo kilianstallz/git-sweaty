@@ -9527,5 +9527,18 @@
     "start_date_local": "2026-06-05T13:50:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 37333.9,
+    "elevation_gain": 304.0,
+    "id": "18807456289",
+    "moving_time": 5556.0,
+    "name": "Test Day 1 \u2014 5min + 20min All-Out (+max Power Test)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T10:40:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
