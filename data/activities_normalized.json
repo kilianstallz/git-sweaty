@@ -9553,5 +9553,31 @@
     "start_date_local": "2026-06-07T19:21:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 30447.2,
+    "elevation_gain": 49.0,
+    "id": "18838910915",
+    "moving_time": 3844.0,
+    "name": "Test Day 2 \u2014 2min + 12min CP Efforts",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-08T17:20:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 25523.2,
+    "elevation_gain": 70.0,
+    "id": "18848028174",
+    "moving_time": 3360.0,
+    "name": "Sweet Spot \u2014 3\u00d712min [Block A W2]",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T11:07:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
