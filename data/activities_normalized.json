@@ -9579,5 +9579,44 @@
     "start_date_local": "2026-06-09T11:07:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 19539.6,
+    "elevation_gain": 0.0,
+    "id": "18940306564",
+    "moving_time": 3341.0,
+    "name": "Threshold \u2014 4\u00d78min [Block A W2]",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-11T13:26:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 28064.6,
+    "elevation_gain": 56.0,
+    "id": "18940308126",
+    "moving_time": 3522.0,
+    "name": "Sweet Spot 2\u00d715min \u2014 Wind Quality Session [Block A W2]",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T17:36:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 29090.8,
+    "elevation_gain": 34.0,
+    "id": "18941573076",
+    "moving_time": 3665.0,
+    "name": "Sweet Spot \u2014 3\u00d712min [Block A W3]",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T12:03:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -6632,6 +6632,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18848028174",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 13,
+      "name": "Threshold \u2014 4\u00d78min [Block A W2]",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18940306564",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 17,
+      "name": "Sweet Spot 2\u00d715min \u2014 Wind Quality Session [Block A W2]",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18940308126",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 12,
+      "name": "Sweet Spot \u2014 3\u00d712min [Block A W3]",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18941573076",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12022,6 +12049,33 @@
           "distance": 25523.2,
           "elevation_gain": 70.0,
           "moving_time": 3360.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18940306564"
+          ],
+          "count": 1,
+          "distance": 19539.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3341.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18940308126"
+          ],
+          "count": 1,
+          "distance": 28064.6,
+          "elevation_gain": 56.0,
+          "moving_time": 3522.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18941573076"
+          ],
+          "count": 1,
+          "distance": 29090.8,
+          "elevation_gain": 34.0,
+          "moving_time": 3665.0
         }
       },
       "Run": {
@@ -12593,7 +12647,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T16:35:03.838655+00:00",
+  "generated_at": "2026-06-16T16:32:04.661985+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
