@@ -6672,10 +6672,19 @@
     {
       "date": "2026-06-19",
       "hour": 16,
-      "name": "Afternoon Ride",
+      "name": "Z2 Freeride",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18985744476",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "name": "Endurance Surges 20\u00d72m",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18995235790",
       "year": 2026
     }
   ],
@@ -12112,6 +12121,15 @@
           "distance": 27592.0,
           "elevation_gain": 78.0,
           "moving_time": 3515.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18995235790"
+          ],
+          "count": 1,
+          "distance": 40866.8,
+          "elevation_gain": 63.0,
+          "moving_time": 5261.0
         }
       },
       "Run": {
@@ -12683,7 +12701,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T16:00:03.224932+00:00",
+  "generated_at": "2026-06-20T15:31:53.374990+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",

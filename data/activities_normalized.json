@@ -9638,10 +9638,23 @@
     "elevation_gain": 78.0,
     "id": "18985744476",
     "moving_time": 3515.0,
-    "name": "Afternoon Ride",
+    "name": "Z2 Freeride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-19T16:36:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 40866.8,
+    "elevation_gain": 63.0,
+    "id": "18995235790",
+    "moving_time": 5261.0,
+    "name": "Endurance Surges 20\u00d72m",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T09:47:40Z",
     "type": "Ride",
     "year": 2026
   }
