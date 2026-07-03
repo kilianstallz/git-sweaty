@@ -9696,5 +9696,18 @@
     "start_date_local": "2026-06-30T18:42:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 2325.8,
+    "elevation_gain": 2.7,
+    "id": "19164211437",
+    "moving_time": 1753.0,
+    "name": "Queen of the Lake",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-03T16:13:27Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
