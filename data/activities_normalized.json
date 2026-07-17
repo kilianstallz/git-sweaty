@@ -9774,5 +9774,18 @@
     "start_date_local": "2026-07-15T19:46:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 14758.0,
+    "elevation_gain": 91.0,
+    "id": "19339065685",
+    "moving_time": 1905.0,
+    "name": "Kurz und Knackig",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T18:16:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
