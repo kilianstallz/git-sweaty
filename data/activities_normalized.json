@@ -9826,5 +9826,18 @@
     "start_date_local": "2026-07-20T12:45:55Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 34560.2,
+    "elevation_gain": 23.0,
+    "id": "19391557708",
+    "moving_time": 4437.0,
+    "name": "JOIN Cycling - Tempo Intervalle & Sprints",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T17:57:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
