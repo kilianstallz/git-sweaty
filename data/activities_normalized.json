@@ -9839,5 +9839,18 @@
     "start_date_local": "2026-07-20T17:57:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 51755.8,
+    "elevation_gain": 245.0,
+    "id": "19447506003",
+    "moving_time": 7001.0,
+    "name": "Durability Long Ride + Late Sweet-Spot 3\u00d712m",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-24T16:06:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
