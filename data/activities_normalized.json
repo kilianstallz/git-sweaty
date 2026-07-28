@@ -9878,5 +9878,18 @@
     "start_date_local": "2026-07-26T13:24:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 9165.1,
+    "elevation_gain": 82.8,
+    "id": "19501995928",
+    "moving_time": 1365.0,
+    "name": "MyWhoosh - Ramp Test - MyWhoosh",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-28T17:34:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

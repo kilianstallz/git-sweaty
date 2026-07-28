@@ -6839,6 +6839,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19472089421",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 17,
+      "name": "MyWhoosh - Ramp Test - MyWhoosh",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19501995928",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12639,6 +12648,15 @@
           "distance": 14319.6,
           "elevation_gain": 0.0,
           "moving_time": 1943.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19501995928"
+          ],
+          "count": 1,
+          "distance": 9165.1,
+          "elevation_gain": 82.8,
+          "moving_time": 1365.0
         }
       },
       "Walk": {
@@ -12991,7 +13009,7 @@
       }
     }
   },
-  "generated_at": "2026-07-27T16:52:28.556194+00:00",
+  "generated_at": "2026-07-28T16:28:00.173006+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
