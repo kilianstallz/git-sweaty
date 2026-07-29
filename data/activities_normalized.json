@@ -9891,5 +9891,18 @@
     "start_date_local": "2026-07-28T17:34:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 15786.4,
+    "elevation_gain": 46.0,
+    "id": "19502810920",
+    "moving_time": 2281.0,
+    "name": "Easy Outdoor Spin 40m (post-ramp)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T18:10:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
