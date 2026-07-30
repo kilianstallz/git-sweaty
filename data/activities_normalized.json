@@ -9904,5 +9904,44 @@
     "start_date_local": "2026-07-28T18:10:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 5547.4,
+    "elevation_gain": 20.0,
+    "id": "19518714090",
+    "moving_time": 809.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T17:25:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 22123.7,
+    "elevation_gain": 52.0,
+    "id": "19518714699",
+    "moving_time": 3166.0,
+    "name": "RTA Ausfahrt mit wenig Akku",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T17:53:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 17178.4,
+    "elevation_gain": 18.0,
+    "id": "19518715736",
+    "moving_time": 2274.0,
+    "name": "RTA Ausfahrt ganz ohne Akku\ud83d\udeb4\u200d\u2642\ufe0f\ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T19:38:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
