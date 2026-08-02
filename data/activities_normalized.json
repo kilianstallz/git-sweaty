@@ -9943,5 +9943,31 @@
     "start_date_local": "2026-07-29T19:38:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 1541.0,
+    "elevation_gain": 3.0,
+    "id": "19567815319",
+    "moving_time": 1191.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-02T11:27:40Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 32353.8,
+    "elevation_gain": 73.0,
+    "id": "19570372183",
+    "moving_time": 4363.0,
+    "name": "Z2 + 3x2 Primers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T14:24:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
