@@ -9969,5 +9969,18 @@
     "start_date_local": "2026-08-02T14:24:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 21738.6,
+    "elevation_gain": 57.0,
+    "id": "19607730028",
+    "moving_time": 3080.0,
+    "name": "Z2 60m + openers - the ride you asked for, still primes tomorrow",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T19:35:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
