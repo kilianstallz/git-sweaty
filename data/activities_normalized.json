@@ -9982,5 +9982,18 @@
     "start_date_local": "2026-08-04T19:35:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 27556.0,
+    "elevation_gain": 0.0,
+    "id": "19630334694",
+    "moving_time": 3610.0,
+    "name": "Outdoor Evening Ride + 8-min Max Effort (CP data point #1)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T18:43:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
