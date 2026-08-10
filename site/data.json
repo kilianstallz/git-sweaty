@@ -6924,7 +6924,7 @@
     {
       "date": "2026-08-08",
       "hour": 20,
-      "name": "Evening Walk",
+      "name": "#zebabywontsleep",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/19659465294",
@@ -13173,7 +13173,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:21:09.349877+00:00",
+  "generated_at": "2026-08-10T15:49:36.147412+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
