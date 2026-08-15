@@ -10073,5 +10073,18 @@
     "start_date_local": "2026-08-14T08:36:19Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 30417.8,
+    "elevation_gain": 74.0,
+    "id": "19747999333",
+    "moving_time": 4060.0,
+    "name": "2h Endurance + 4-min max (CP data point #2)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T08:19:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
