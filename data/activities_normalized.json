@@ -10086,5 +10086,18 @@
     "start_date_local": "2026-08-15T08:19:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 22603.9,
+    "elevation_gain": 113.0,
+    "id": "19766728092",
+    "moving_time": 3458.0,
+    "name": "Easy Z2 70m + 3x30s rehearsal - or skip it",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T14:18:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
