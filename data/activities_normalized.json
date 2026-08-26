@@ -10151,5 +10151,18 @@
     "start_date_local": "2026-08-23T17:08:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 20962.2,
+    "elevation_gain": 34.0,
+    "id": "19895482208",
+    "moving_time": 2862.0,
+    "name": "VO2 4x4m @ 256-268 W",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T17:24:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
