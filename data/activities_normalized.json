@@ -10164,5 +10164,31 @@
     "start_date_local": "2026-08-25T17:24:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 5114.0,
+    "elevation_gain": 4.0,
+    "id": "19911216524",
+    "moving_time": 2593.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T18:25:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 43881.0,
+    "elevation_gain": 237.0,
+    "id": "19925403010",
+    "moving_time": 6184.0,
+    "name": "Strukturloses Abendger\u00e4derle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-27T17:15:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
