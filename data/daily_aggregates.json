@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:00:35.659668+00:00",
+  "generated_at": "2026-08-30T18:15:00.737696+00:00",
   "years": {
     "2022": {
       "WeightTraining": {
@@ -5633,7 +5633,7 @@
           ],
           "count": 1,
           "distance": 43881.0,
-          "elevation_gain": 237.0,
+          "elevation_gain": 234.4,
           "moving_time": 6184.0
         }
       },
@@ -5853,6 +5853,15 @@
           "distance": 5114.0,
           "elevation_gain": 4.0,
           "moving_time": 2593.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19967326840"
+          ],
+          "count": 1,
+          "distance": 4623.0,
+          "elevation_gain": 3.0,
+          "moving_time": 2296.0
         }
       },
       "VirtualRide": {
