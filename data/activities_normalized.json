@@ -10242,5 +10242,18 @@
     "start_date_local": "2026-09-07T17:25:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 37364.4,
+    "elevation_gain": 49.0,
+    "id": "20085393410",
+    "moving_time": 4888.0,
+    "name": "VO2 5x4m @ 256-268 W - MAP",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-08T10:31:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
