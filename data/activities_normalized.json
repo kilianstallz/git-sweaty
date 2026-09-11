@@ -10255,5 +10255,31 @@
     "start_date_local": "2026-09-08T10:31:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 5663.0,
+    "elevation_gain": 66.0,
+    "id": "20120256552",
+    "moving_time": 3410.0,
+    "name": "Evening Stroller Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T18:51:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 26135.6,
+    "elevation_gain": 38.0,
+    "id": "20132363756",
+    "moving_time": 3679.0,
+    "name": "JOIN Cycling - JOIN Cycling - 10x 2 min intensive Ausdauerintervalle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T17:24:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
