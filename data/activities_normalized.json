@@ -10294,5 +10294,18 @@
     "start_date_local": "2026-09-11T19:47:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 42576.3,
+    "elevation_gain": 78.0,
+    "id": "20160192490",
+    "moving_time": 5576.0,
+    "name": "VO2 4x4m @ 256-268 W + 30m Z2 - MAP, second dose",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-13T15:37:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
