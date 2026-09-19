@@ -10307,5 +10307,44 @@
     "start_date_local": "2026-09-13T15:37:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20230671214",
+    "moving_time": 2096.0,
+    "name": "Evening Crossfit",
+    "raw_activity_type": "Crossfit",
+    "raw_type": "Crossfit",
+    "start_date_local": "2026-09-18T19:47:08Z",
+    "type": "Crossfit",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 21404.6,
+    "elevation_gain": 39.0,
+    "id": "20239982845",
+    "moving_time": 3134.0,
+    "name": "Vormittagsrunde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T07:59:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 1001.0,
+    "elevation_gain": 0.0,
+    "id": "20241273526",
+    "moving_time": 967.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-19T15:04:28Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

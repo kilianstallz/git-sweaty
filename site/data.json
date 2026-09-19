@@ -7136,6 +7136,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20160192490",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 19,
+      "name": "Evening Crossfit",
+      "subtype": "Crossfit",
+      "type": "Crossfit",
+      "url": "https://www.strava.com/activities/20230671214",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 7,
+      "name": "Vormittagsrunde",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20239982845",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20241273526",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12246,6 +12273,17 @@
       }
     },
     "2026": {
+      "Crossfit": {
+        "2026-09-18": {
+          "activity_ids": [
+            "20230671214"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2096.0
+        }
+      },
       "Ride": {
         "2026-02-07": {
           "activity_ids": [
@@ -12818,6 +12856,15 @@
           "distance": 42576.3,
           "elevation_gain": 78.0,
           "moving_time": 5576.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20239982845"
+          ],
+          "count": 1,
+          "distance": 21404.6,
+          "elevation_gain": 39.0,
+          "moving_time": 3134.0
         }
       },
       "Run": {
@@ -13451,6 +13498,15 @@
           "distance": 1706.0,
           "elevation_gain": 0.0,
           "moving_time": 1558.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20241273526"
+          ],
+          "count": 1,
+          "distance": 1001.0,
+          "elevation_gain": 0.0,
+          "moving_time": 967.0
         }
       },
       "WeightTraining": {
@@ -13561,7 +13617,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T17:57:53.339057+00:00",
+  "generated_at": "2026-09-19T17:35:34.200610+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
