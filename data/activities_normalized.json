@@ -10346,5 +10346,18 @@
     "start_date_local": "2026-09-19T15:04:28Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 34899.3,
+    "elevation_gain": 78.0,
+    "id": "20255394305",
+    "moving_time": 4575.0,
+    "name": "Threshold 4x8 self-paced",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-20T14:18:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
