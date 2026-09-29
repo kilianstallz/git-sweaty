@@ -10437,5 +10437,18 @@
     "start_date_local": "2026-09-28T11:28:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 16174.4,
+    "elevation_gain": 0.0,
+    "id": "20373598003",
+    "moving_time": 2103.0,
+    "name": "Deister",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T07:29:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
