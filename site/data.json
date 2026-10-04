@@ -7262,6 +7262,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20428838986",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 13,
+      "name": "Schotterrakete Testen - NBD",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20447442971",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12383,6 +12392,17 @@
           "moving_time": 2096.0
         }
       },
+      "GravelRide": {
+        "2026-10-04": {
+          "activity_ids": [
+            "20447442971"
+          ],
+          "count": 1,
+          "distance": 27429.0,
+          "elevation_gain": 376.0,
+          "moving_time": 3908.0
+        }
+      },
       "Ride": {
         "2026-02-07": {
           "activity_ids": [
@@ -13807,7 +13827,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:25:50.711444+00:00",
+  "generated_at": "2026-10-04T18:27:52.408633+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
@@ -13817,6 +13837,10 @@
     "Crossfit": {
       "accent": "#00bbf9",
       "label": "Crossfit"
+    },
+    "GravelRide": {
+      "accent": "#00f5d4",
+      "label": "Gravel Ride"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -13857,6 +13881,7 @@
   },
   "types": [
     "Crossfit",
+    "GravelRide",
     "Hike",
     "Ride",
     "Run",

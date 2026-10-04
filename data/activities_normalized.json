@@ -10489,5 +10489,18 @@
     "start_date_local": "2026-10-03T08:51:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 27429.0,
+    "elevation_gain": 376.0,
+    "id": "20447442971",
+    "moving_time": 3908.0,
+    "name": "Schotterrakete Testen - NBD",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-04T13:46:54Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
