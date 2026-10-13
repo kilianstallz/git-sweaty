@@ -7280,6 +7280,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20555166110",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 14,
+      "name": "Pisgah",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20567602184",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 18,
+      "name": "M\u00e4use Wanderung",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20570875196",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13029,6 +13047,15 @@
           "distance": 22202.9,
           "elevation_gain": 0.0,
           "moving_time": 2946.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20567602184"
+          ],
+          "count": 1,
+          "distance": 25838.2,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "Run": {
@@ -13726,6 +13753,15 @@
           "distance": 2904.0,
           "elevation_gain": 20.0,
           "moving_time": 2000.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20570875196"
+          ],
+          "count": 1,
+          "distance": 1776.2,
+          "elevation_gain": 0.0,
+          "moving_time": 1628.0
         }
       },
       "WeightTraining": {
@@ -13845,7 +13881,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:18:40.757287+00:00",
+  "generated_at": "2026-10-13T20:25:54.401119+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
