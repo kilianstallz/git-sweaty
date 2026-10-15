@@ -10541,5 +10541,31 @@
     "start_date_local": "2026-10-13T18:51:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 8399.4,
+    "elevation_gain": 151.0,
+    "id": "20596453340",
+    "moving_time": 1524.0,
+    "name": "Zwift - TrainerRoad: Ericsson",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T16:15:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 3943.0,
+    "elevation_gain": 6.0,
+    "id": "20598258188",
+    "moving_time": 3500.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-15T17:24:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -7298,6 +7298,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20570875196",
       "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 16,
+      "name": "Zwift - TrainerRoad: Ericsson",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20596453340",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 17,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20598258188",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13420,6 +13438,15 @@
           "distance": 22786.1,
           "elevation_gain": 181.0,
           "moving_time": 3013.0
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "20596453340"
+          ],
+          "count": 1,
+          "distance": 8399.4,
+          "elevation_gain": 151.0,
+          "moving_time": 1524.0
         }
       },
       "Walk": {
@@ -13762,6 +13789,15 @@
           "distance": 1776.2,
           "elevation_gain": 0.0,
           "moving_time": 1628.0
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "20598258188"
+          ],
+          "count": 1,
+          "distance": 3943.0,
+          "elevation_gain": 6.0,
+          "moving_time": 3500.0
         }
       },
       "WeightTraining": {
@@ -13881,7 +13917,7 @@
       }
     }
   },
-  "generated_at": "2026-10-14T19:02:44.933362+00:00",
+  "generated_at": "2026-10-15T18:46:04.280435+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
