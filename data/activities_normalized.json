@@ -10580,5 +10580,18 @@
     "start_date_local": "2026-10-16T15:15:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 30088.7,
+    "elevation_gain": 276.0,
+    "id": "20658416523",
+    "moving_time": 4543.0,
+    "name": "Zwift - TrainerRoad: Steamboat +3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-20T10:59:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
