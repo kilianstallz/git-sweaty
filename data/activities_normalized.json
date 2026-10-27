@@ -10606,5 +10606,31 @@
     "start_date_local": "2026-10-24T17:13:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 648.0,
+    "elevation_gain": 10.0,
+    "id": "20752937551",
+    "moving_time": 399.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T16:12:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 1005.0,
+    "elevation_gain": 11.0,
+    "id": "20752938609",
+    "moving_time": 1038.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T16:48:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

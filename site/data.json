@@ -7343,6 +7343,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20715055254",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20752937551",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20752938609",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13854,6 +13872,16 @@
           "distance": 3943.0,
           "elevation_gain": 6.0,
           "moving_time": 3500.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20752937551",
+            "20752938609"
+          ],
+          "count": 2,
+          "distance": 1653.0,
+          "elevation_gain": 21.0,
+          "moving_time": 1437.0
         }
       },
       "WeightTraining": {
@@ -13973,7 +14001,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T20:13:17.049708+00:00",
+  "generated_at": "2026-10-27T19:45:08.967031+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
