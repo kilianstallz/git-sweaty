@@ -7370,6 +7370,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20766274223",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 10,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20776591735",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13900,6 +13909,15 @@
           "distance": 2406.0,
           "elevation_gain": 3.0,
           "moving_time": 2493.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20776591735"
+          ],
+          "count": 1,
+          "distance": 1761.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1950.0
         }
       },
       "WeightTraining": {
@@ -14019,7 +14037,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T19:58:43.017725+00:00",
+  "generated_at": "2026-10-29T19:56:55.975919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
