@@ -10671,5 +10671,31 @@
     "start_date_local": "2026-10-30T09:31:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 3608.0,
+    "elevation_gain": 6.0,
+    "id": "20896865396",
+    "moving_time": 2331.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T09:30:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 909.0,
+    "elevation_gain": 3.0,
+    "id": "20898259368",
+    "moving_time": 887.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-07T17:14:34Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

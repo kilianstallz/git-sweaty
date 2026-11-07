@@ -7388,6 +7388,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20788100663",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 9,
+      "name": "Lauf am Morgen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20896865396",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 17,
+      "name": "Nachmittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20898259368",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13393,6 +13411,15 @@
           "distance": 5663.0,
           "elevation_gain": 66.0,
           "moving_time": 3410.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20896865396"
+          ],
+          "count": 1,
+          "distance": 3608.0,
+          "elevation_gain": 6.0,
+          "moving_time": 2331.0
         }
       },
       "VirtualRide": {
@@ -14051,11 +14078,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1239.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20898259368"
+          ],
+          "count": 1,
+          "distance": 909.0,
+          "elevation_gain": 3.0,
+          "moving_time": 887.0
         }
       }
     }
   },
-  "generated_at": "2026-11-06T20:39:08.821136+00:00",
+  "generated_at": "2026-11-07T19:11:27.862419+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
