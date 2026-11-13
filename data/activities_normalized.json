@@ -10736,5 +10736,18 @@
     "start_date_local": "2026-11-12T15:56:48Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 5212.9,
+    "elevation_gain": 22.0,
+    "id": "20973877631",
+    "moving_time": 723.0,
+    "name": "Zwift - Beach Island Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-13T17:11:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
