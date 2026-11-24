@@ -10801,5 +10801,18 @@
     "start_date_local": "2026-11-20T08:37:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 3759.9,
+    "elevation_gain": 7.0,
+    "id": "21105924873",
+    "moving_time": 2061.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-24T10:56:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
