@@ -10814,5 +10814,31 @@
     "start_date_local": "2026-11-24T10:56:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 1106.4,
+    "elevation_gain": 8.0,
+    "id": "21129941847",
+    "moving_time": 1229.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-26T11:45:46Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21134040896",
+    "moving_time": 771.0,
+    "name": "Pilates am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-11-26T17:52:02Z",
+    "type": "Pilates",
+    "year": 2026
   }
 ]

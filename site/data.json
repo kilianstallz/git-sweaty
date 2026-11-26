@@ -7487,6 +7487,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21105924873",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 11,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/21129941847",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 17,
+      "name": "Pilates am Nachmittag",
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "url": "https://www.strava.com/activities/21134040896",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12639,6 +12657,17 @@
           "moving_time": 981.0
         }
       },
+      "Pilates": {
+        "2026-11-26": {
+          "activity_ids": [
+            "21134040896"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 771.0
+        }
+      },
       "Ride": {
         "2026-02-07": {
           "activity_ids": [
@@ -14116,6 +14145,15 @@
           "distance": 1363.0,
           "elevation_gain": 45.0,
           "moving_time": 948.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21129941847"
+          ],
+          "count": 1,
+          "distance": 1106.4,
+          "elevation_gain": 8.0,
+          "moving_time": 1229.0
         }
       },
       "WeightTraining": {
@@ -14253,7 +14291,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:25:00.536024+00:00",
+  "generated_at": "2026-11-26T23:24:42.434025+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/118521784",
   "repo": "kilianstallz/git-sweaty",
@@ -14271,6 +14309,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "Pilates": {
+      "accent": "#fee440",
+      "label": "Pilates"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -14309,6 +14351,7 @@
     "Crossfit",
     "GravelRide",
     "Hike",
+    "Pilates",
     "Ride",
     "Run",
     "Swim",
