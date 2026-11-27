@@ -10840,5 +10840,18 @@
     "start_date_local": "2026-11-26T17:52:02Z",
     "type": "Pilates",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 16940.4,
+    "elevation_gain": 192.0,
+    "id": "21145405253",
+    "moving_time": 2593.0,
+    "name": "Zwift - Intervals icu: Indoor SS",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-27T18:17:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
